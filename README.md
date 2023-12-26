@@ -5,6 +5,7 @@
 ## ✨ The definitive badge list for your projects. ✨
 
 [![View On GitBook](https://img.shields.io/badge/View%20This%20On%20GitBook-3884FF?logo=gitbook&logoColor=fff&style=for-the-badge)](https://md-badges.gitbook.io/md-badges)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Finttter%2Fmd-badges.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Finttter%2Fmd-badges?ref=badge_shield)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/inttter/md-badges/blob/main/LICENSE)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/inttter/md-badges.svg)](https://github.com/inttter/md-badges/issues?q=is%3Aissue+is%3Aclosed)
@@ -847,3 +848,6 @@
 [![Donate](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black&style=for-the-badge)](https://www.buymeacoffee.com/intter) [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/intter) [![Github-Sponsors](https://img.shields.io/badge/Sponsor-30363D?&logo=GitHub-Sponsors&style=for-the-badge&logoColor=#EA4AAA)](https://github.com/sponsors/inttter)
 
 </div>
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Finttter%2Fmd-badges.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Finttter%2Fmd-badges?ref=badge_large)
